@@ -1,0 +1,25 @@
+{
+  "basics":{
+     "name":"sameera",
+     "email":"sameerabeg9.3@gmail.com",
+     "mobile":"+91-9999999999"
+  },
+  "education":[
+    {
+      "degree":"B.Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","82%"]
+    },
+    {
+        "degree":"Intermediate/Diploma",
+        "institute":"Sri Chaitanya junior college",
+        "data":["2013-15","96%"]
+      },
+      {
+          "degree":"S.S.C",
+          "institute":"K.S.R.Z.P.G.High school",
+          "data":["2012-13","9.3"]
+        }
+      ]
+
+}
