@@ -4,6 +4,9 @@
      "email":"sameerabeg9.3@gmail.com",
      "mobile":"+91-9999999999"
   },
+  "career":{
+   "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
   "education":[
     {
       "degree":"B.Tech",
@@ -20,6 +23,31 @@
           "institute":"K.S.R.Z.P.G.High school",
           "data":["2012-13","9.3"]
         }
-      ]
-
-}
+      ],
+      "achievements":[
+          {
+              "name":"awarded as <b>1<sup>st</sup>prize</b> in <q> self-defence</q>"
+          },
+          {
+              "name":"Got<strong>1<sup>st</sup>prize</strong> for <q> PPT presentation.</q>"
+          }
+       ],
+       "skills":[
+         {
+           "name":"programming languages",
+           "data":["C","C++","java","python"]
+         },
+         {
+           "name":"databases",
+           "data":["mysql","oracle"]
+         },
+         {
+           "name":"web technologies",
+           "data":["HTML","CSS","javascript"]
+         },
+         {
+           "name":"libraries and frameworks",
+           "data":["jquery","codeIgniter"]
+         }
+        ]
+    }

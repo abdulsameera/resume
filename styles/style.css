@@ -1,5 +1,18 @@
+table{
+  width:90%;
+  box-shadow:3px 3px 3px #ddd;
+   }
+   td{
+     padding:1%;
+   }
+tr:nth-child(even){
+  background:#ddd;
+}
 a{
   text-decoration:none;
+}
+.largeFont{
+  font-size:24px;
 }
 .main{
  display:flex;
